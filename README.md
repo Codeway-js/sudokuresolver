@@ -1,4 +1,4 @@
-# sudokuresover
+# sudokuresolver
 
 For install 
 
