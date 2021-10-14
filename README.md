@@ -1,5 +1,9 @@
 # sudokuresover
-For install npm i sudokuresolver
+
+For install 
+
+npm i sudokuresolver
+
 [npm](https://www.npmjs.com/package/sudokuresolver)
 ## description
 a sudoku resolver like I resolve sudoku
